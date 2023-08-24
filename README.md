@@ -16,6 +16,6 @@ The Row Transposition Cipher is a simple encryption technique that rearranges th
 
 ## License
 
-This code is provided under the [License](LICENSE).
+This code is provided under the [MIT License](LICENSE).
 
 Feel free to contribute, report issues, or use this code for your own projects.
